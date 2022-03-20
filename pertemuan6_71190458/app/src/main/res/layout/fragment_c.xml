@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/fragC"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tvFragmentC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/frag_c"
+        android:textSize="30sp"
+        android:textColor="@color/text"
+        />
+
+    <Button
+        android:id="@+id/btnFragC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/first_page"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/background_button"
+        android:theme="@style/Button.color"
+        />
+
+
+</LinearLayout>

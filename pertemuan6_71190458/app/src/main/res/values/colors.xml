@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#143074</color>
+    <color name="colorPrimaryDark">#071e55</color>
+    <color name="colorAccent">#1b3cca</color>
+    <color name="fragA">#2046a1</color>
+    <color name="fragB">#3963c8</color>
+    <color name="fragC">#3868d9</color>
+    <color name="text">#dadada</color>
+    <color name="colorButton">#fc4d36</color>
+</resources>

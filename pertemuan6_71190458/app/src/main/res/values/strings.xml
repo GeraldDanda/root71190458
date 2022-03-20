@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pertemuan6_71190458</string>
+    <string name="frag_a">Fragment A</string>
+    <string name="frag_b">Fragment B</string>
+    <string name="frag_c">Fragment C</string>
+    <string name="first_page">GO TO FIRST PAGE</string>
+    <string name="second_page">GO TO SECOND PAGE</string>
+    <string name="third_page">GO TO THIRD PAGE</string>
+</resources>
