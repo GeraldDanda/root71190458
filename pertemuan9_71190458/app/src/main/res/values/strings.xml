@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">71190458</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">LOGOUT</string>
+    <string name="forgetPassword">Forget your password?</string>
+    <string name="donthaveanAccount">Don\'t have an account?</string>
+    <string-array name="list_bahasa">
+        <item>Bahasa Indonesia</item>
+        <item>Bahasa Inggris</item>
+        <item>Bahasa Belanda</item>
+        <item>Bahasa Jerman</item>
+    </string-array>
+
+    <string-array name="list_font">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
