@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">71190458</string>
+    <string name="nama">Masukkan Nama</string>
+    <string name="usia">Masukkan Usia</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="cari">Cari</string>
+    <string name="data">Data:</string>
+    <string name="hasilpencarian">Hasil Pencarian:</string>
+</resources>

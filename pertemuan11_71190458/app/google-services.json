@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942797804011",
+    "project_id": "database-forebase-mahasi-ff580",
+    "storage_bucket": "database-forebase-mahasi-ff580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942797804011:android:9ce9126a9016405f7dc9ae",
+        "android_client_info": {
+          "package_name": "id.ac.ukdw.pertemuan11_71190458"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942797804011-mukbl8o8p7f5qiu8g0dkqrbhectechdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmRlur_4hOnRDErNuAxAR44bXnjIVXN8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942797804011-mukbl8o8p7f5qiu8g0dkqrbhectechdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
