@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/create"
+            android:textColor="@color/colorBlue"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:textSize="20sp"
+            android:layout_marginBottom="40dp"/>
+
+        <EditText
+            android:id="@+id/edtJudul"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Judul Film"/>
+
+        <EditText
+            android:id="@+id/edtGenre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/edtJudul"
+            android:hint="Genre"/>
+
+        <EditText
+            android:id="@+id/edtNamaProduser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/edtGenre"
+            android:hint="Nama Produser"/>
+
+        <EditText
+            android:id="@+id/edtNamaPemeranUtama"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/edtNamaProduser"
+            android:hint="Nama Pemeran Utama"/>
+
+        <EditText
+            android:id="@+id/edtTahun"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/edtNamaPemeranUtama"
+            android:hint="Tahun Rilis"/>
+
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorWhite"
+            android:background="@drawable/background_button"
+            android:theme="@style/Button.color"
+            android:layout_marginTop="24dp"
+            android:layout_below="@+id/edtTahun"
+            android:text="@string/save"/>
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
